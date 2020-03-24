@@ -1,5 +1,5 @@
 ---
-title: "example-file"
+title: "Github example"
 output: html_document
 ---
 
